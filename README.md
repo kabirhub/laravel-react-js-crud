@@ -1,5 +1,5 @@
 
-## Laravel 9
+## Laravel
 ## ReactJs
 ## axios
 ## Bootstrap
